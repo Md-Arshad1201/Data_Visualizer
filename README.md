@@ -1,5 +1,15 @@
 # 📊 Data Visualizer - Streamlit Web Application
 
+## 🖼️ Application Preview
+
+### Home Page
+![Home Page](Screenshots/Home.png)
+*Clean interface for dataset selection*
+
+### Visualization in Action  
+![App in Action](Screenshots/Action.png)
+*Interactive chart generation with user-selected parameters*
+
 ## 📖 Table of Contents
 - [Introduction](#introduction)
 - [What is This Project?](#what-is-this-project)
