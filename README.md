@@ -3,11 +3,11 @@
 ## 🖼️ Application Preview
 
 ### Home Page
-![Home Page](Screenshots/Home.png)
+![Home Page](Screenshots/https://github.com/Md-Arshad1201/Data_Visualizer/blob/main/screenshots/Home.png?raw=true)
 *Clean interface for dataset selection*
 
 ### Visualization in Action  
-![App in Action](Screenshots/Action.png)
+![App in Action](Screenshots/https://github.com/Md-Arshad1201/Data_Visualizer/blob/main/screenshots/Action.png?raw=true)
 *Interactive chart generation with user-selected parameters*
 
 ## 📖 Table of Contents
